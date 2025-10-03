@@ -204,7 +204,7 @@ FACE_TRACKER/
 
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/🎥-Watch_Demo_Video-red)](YOUR_LOOM_OR_YOUTUBE_LINK_HERE)
+[![Watch Demo](https://img.shields.io/badge/🎥-Watch_Demo_Video-red)]([YOUR_LOOM_OR_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=lWt_W1PrHVM))
 
 ---
 
