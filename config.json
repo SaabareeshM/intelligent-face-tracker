@@ -1,0 +1,15 @@
+{
+  "detection_skip_frames": 3,
+  "detection_conf_threshold": 0.3,
+  "embedding_similarity_threshold": 0.4,
+  "embedding_diversity_threshold": 0.8,
+  "exit_frame_threshold": 15,
+  "save_cropped": true,
+  "logs_folder": "logs",
+  "mongodb_uri": "mongodb://localhost:27017",
+  "database_name": "face_tracker",
+  "model_yolo": "yolov8n-face.pt",
+  "det_size": 512,
+  "visualize": true,
+  "camera_source": 0
+}

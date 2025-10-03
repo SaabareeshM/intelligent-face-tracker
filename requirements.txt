@@ -1,0 +1,17 @@
+ultralytics>=8.0.0
+insightface>=0.7.3
+numpy>=1.21.0
+opencv-python>=4.5.0
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+supervision>=0.10.0
+pymongo>=4.0.0
+dnspython>=2.0.0
+onnxruntime>=1.14.0
+streamlit>=1.28.0
+streamlit-webrtc>=0.48.0
+av>=10.0.0
+pydub>=0.25.1
+plotly>=5.0.0
+pandas>=1.5.0
