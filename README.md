@@ -104,7 +104,7 @@ Face Recognition (InsightFace)
 
 ### Collections in MongoDB:
 
-#### 1. **people** Collection
+#### 1. **people** 
 ```json
 {
   "person_id": "person1",
@@ -114,7 +114,7 @@ Face Recognition (InsightFace)
 }
 ```
 
-#### 2. **face_data** Collection
+#### 2. **face_data** 
 ```json
 {
   "person_id": "person1",
@@ -123,7 +123,7 @@ Face Recognition (InsightFace)
 }
 ```
 
-#### 3. **visit_records** Collection
+#### 3. **visit_records**
 ```json
 {
   "person_id": "person1",
@@ -133,7 +133,7 @@ Face Recognition (InsightFace)
 }
 ```
 
-#### 4. **counter** Collection
+#### 4. **counter**
 ```json
 {
   "name": "person_counter",
@@ -178,7 +178,7 @@ FACE_TRACKER/
 
 ---
 
-## 📊 Assumptions & Constraints
+## 📊 Constraints
 
 - **Lighting**: Reasonably well-lit environments for optimal detection
 - **Face Angles**: Works best with frontal or near-frontal face angles
